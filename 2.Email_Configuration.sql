@@ -7,7 +7,7 @@ EXECUTE msdb.dbo.sysmail_add_account_sp
     @display_name = 'AdventureWorks Automated Mailer',  
     @mailserver_name = 'smtp.gmail.com',
 	@username = 'krunaljagani7996@gmail.com',
-	@password = 'Palakpatel@2002',
+	@password = 'xxxxxxx',
 	@port = 587,
 	@enable_ssl  = 1
 
